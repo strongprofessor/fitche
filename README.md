@@ -5,4 +5,4 @@ Built on blockchain technology, we ensure transparency through weekly releases o
 Every interaction is encrypted therefore users retain full ownership of their personal data.
 
 
-Expected release date: December 6th, 2024
+Expected release date: December 18th, 2024
